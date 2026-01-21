@@ -1,4 +1,6 @@
 import java.util.Scanner;
+// Class project week 2 Black Jack game
+// Duncan Jackson CS 145 January 2025
 
 public class BlackjackTest {
     public void main(String[] args) {
